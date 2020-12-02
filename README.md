@@ -11,5 +11,7 @@
   8.hystrix监控:cloud-consumer-hystrix-dashboard9001
   9.gateway网关中心:cloud-gateway-gateway9527
   10.config配置中心(带消息总线):cloud-config-center-3344,cloud-config-center-3355,cloud-config-center-3366
-  
+  11.待完成:stream消息驱动
+  12.待完成:sleuth分布式链路跟踪
+  13.待完成:Alibaba nacos服务注册和配置/sentinel熔断和限流/seata分布式事务配置
   
