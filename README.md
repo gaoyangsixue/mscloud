@@ -1,5 +1,5 @@
 # mscloud
-在主分支上新增加dev分支,后续代码都从dev分支进行提交
+在主分支上新增加dev分支,后续代码都从dev分支进行提交  
 初始版本全部文件上传  
 包含项目:  
   1.普通消费者:cloud-consumer-order80  
@@ -13,15 +13,15 @@
   9.gateway网关中心:cloud-gateway-gateway9527  
   10.config配置中心(带消息总线):cloud-config-center-3344,cloud-config-center-3355,cloud-config-center-3366  
   11.stream消息驱动  
-    1)消息驱动生产者8801(已提交)  
-    2)消息驱动消费者8802(已提交)  
-    3)消息驱动消费者8803(已提交)  
+      1)消息驱动生产者8801(已提交)  
+      2)消息驱动消费者8802(已提交)  
+      3)消息驱动消费者8803(已提交)  
   12.待完成:sleuth分布式链路跟踪  
-    1)创建项目  
-    2)pom.xml配置  
-    3)application.yml配置  
-    4)主启动类创建  
-    5)业务类创建  
+      1)创建项目  
+      2)pom.xml配置  
+      3)application.yml配置  
+      4)主启动类创建  
+      5)业务类创建  
   13.待完成:Alibaba nacos服务注册和配置/sentinel熔断和限流/seata分布式事务配置  
   
 
