@@ -19,3 +19,6 @@
   12.待完成:sleuth分布式链路跟踪  
   13.待完成:Alibaba nacos服务注册和配置/sentinel熔断和限流/seata分布式事务配置  
   
+
+
+test:测试从idea上提交代码并合并到master分支上
