@@ -24,7 +24,7 @@
       5)业务类创建  
   13.待完成:Alibaba nacos服务注册和配置/sentinel熔断和限流/seata分布式事务配置  
 
-  master分支内容
+
 
 ###### 待完成:使用swagger2生成在线文档,并进行测试
 
